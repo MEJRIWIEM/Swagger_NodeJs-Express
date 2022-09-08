@@ -1,5 +1,5 @@
 # Swagger_NodeJs-Express
-Generating an API documentation and a swagger JSON file
+Generating an API Swagger documentation and a Swagger JSON file
 
      npm install --save swagger-jsdoc swagger-ui-express express nodemon
      
