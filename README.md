@@ -3,6 +3,7 @@ Generating an API Swagger documentation and a Swagger JSON file
 
      npm install --save swagger-jsdoc swagger-ui-express express nodemon
      
+     npm install
      npm start
  
      Swagger Documentation:
